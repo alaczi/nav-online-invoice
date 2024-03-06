@@ -5,3 +5,6 @@
 /.idea
 /sha3-lib
 /examples/config.php
+/composer.lock
+/.phpunit.result.cache
+/vendor
